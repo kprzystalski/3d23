@@ -1,5 +1,6 @@
 # Colors
-Termin oddania: 19.11.22 23:59 5 pkt. 
+
+Termin oddania: 2.12.22 23:59 5 pkt. 
 
 1. Start the assignment by copying the `House` assignment folder to `Colors` folder as described  previously. 
 2. Now add the color data to the vertices. In the array holding the vertices, after coordinates of each vertex add a RGB color value. Please remember that in OpenGL the colors channels  take values from the interval [0,1]. 
