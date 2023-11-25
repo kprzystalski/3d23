@@ -1,5 +1,5 @@
 # Indices 
-Termin oddania: 19.11.22 23:59 5pkt
+Termin oddania: 9.12.23 23:59 5pkt
 
 To ćwiczenie ma za zadanie zaznajomienie Państwa z działaniem bufora indeksów. Jak Państwo pewnie zauważyli część wierchołków w buforze wierzchołków się powtarza. W przypadku dużych siatek każdy wierzchołek może powtarzać się kilka razy co prowadzi do marnotrawienia zasobów, a co za tym idzie wolniejszego działania aplikacji.  Żeby temu zaradzić można posłużyć się buforem indeksów. Idea polega na załadowaniu do bufora wierzchołków tylko niepowtarzających  się wierzchołków. Następnie w celu zdefiniowania trókątów  posługujemy  się _indeksami_ tych wierzchołków które przekazujemu właśnie w buforze indeksów.
 
