@@ -1,6 +1,6 @@
 # Textures
 
-Termin oddania: 07.01.22 23:59 10kt
+Termin oddania: 07.01.23 23:59 10kt
 
 W tym zadaniu rozszerzymy klasę `ColorMaterial`, tak aby kolor mógł być pobierany z tekstury. W tym celu musimny dodać
 do niej dodatkowe pola:

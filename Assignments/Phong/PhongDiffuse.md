@@ -1,6 +1,6 @@
 # Model oświetlenia Phonga — cześć dyfuzyjna
 
-Termin oddania: 22.01.22 23:59 10pkt
+Termin oddania: 30.01.23 23:59 10pkt
 
 ## Wstęp
 

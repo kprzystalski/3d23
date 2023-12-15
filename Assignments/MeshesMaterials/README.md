@@ -1,6 +1,6 @@
 # Meshes and Materials
 
-Termin oddania: 15.01.22 23:59 12pkt
+Termin oddania: 7.01.23 23:59 12pkt
 
 W tym ćwiczeniu "uporządkujemy" trochę kod wprowadzając klasę `Mesh` i prosty system materiałów. Cwiczenie wymaga
 ściągnięcia najnowszej wersji kodu z mojego repozytorium. Może się przy tym okazać, że Państwa kod przestanie działać :(
